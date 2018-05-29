@@ -1,0 +1,42 @@
+#sendEmail {
+	margin-left: 30px;
+}
+
+#table {
+	position:relative;
+	top:0px;
+	width: 1050px;
+	margin-left: 30px;
+	table-layout: auto;
+	white-space: normal;
+}
+td {
+	padding: 5px;
+ }
+#TitleFullRecord {
+	position: relative;
+	left:250px; 
+	top:-45px;
+	color:#FFF;
+	font-size:25px;
+}
+#navULFullRecord{
+	width:500px; /* width of the whole navigation bar*/
+	margin:0 auto;
+	}
+#navulliFullRecord {
+	position:relative;
+	float: left;
+	text-align:center;
+	list-style-type:none; /*clear the format of the list*/
+	width:250px; /* width of the individual tab*/
+	line-height:35px;
+	font-size:18px;
+}
+#navulliFullRecord a{
+	color:#555555;
+	display:block;
+}
+#navulliFullRecord a:hover{
+	background:	#F5F5F5;	
+}

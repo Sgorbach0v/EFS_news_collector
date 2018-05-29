@@ -1,1 +1,1 @@
-# EFS_news_collector
+# EFS

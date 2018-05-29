@@ -1,0 +1,38 @@
+#table {
+	width: 1100px;
+	margin-left: 90px;
+}
+
+td {
+	padding: 5px;
+ }
+#TitleAdminPage {
+	position: relative;
+	left:250px; 
+	top:-45px;
+	color:#FFF;
+	font-size:25px;
+}
+#navULAdminPage{
+	width:1200px; /* width of the whole navigation bar*/
+	margin:0 auto;
+	}
+#navulliAdminPage {
+	position:relative;
+	float: left;
+	text-align:center;
+	list-style-type:none; /*clear the format of the list*/
+	width:150px; /* width of the individual tab*/
+	line-height:35px;
+	font-size:18px;
+}
+#navulliAdminPage a{
+	color:#555555;
+	display:block;
+}
+#navulliAdminPage a:hover{
+	background:	#F5F5F5;	
+}
+#view {
+	color:black;
+}
